@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+    <declare-styleable name="MetroView">  
+        <attr name="backcolor" format="integer" />  
+        <attr name="textSize" format="dimension" />  
+        <attr name="big" format="boolean" />  
+        <attr name="home" format="integer" />  
+        <attr name="text" format="string" />  
+    </declare-styleable>  
+</resources>  

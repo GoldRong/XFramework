@@ -1,0 +1,6 @@
+{
+    "versionCode": 1,
+    "newVersion": "http://127.0.0.1:8080/HongQiChainServer/apk/HongQiChain.apk",
+    "serverAddress": "http://172.60.0.137:8080/SpringMVC/",
+    "imageAddress": "http://127.0.0.1:8080/HongQiChainServer/Image"
+}
